@@ -13,17 +13,24 @@
 
 ## Integrantes:
 
-- Silvana Barea
+- Silvana Barea (https://github.com/recursosssbb)
 
-- Mauro Martinez
+- Mauro Martinez (https://github.com/Mauro-Martinez)
 
-- Celeste Suarez
+- Celeste Suarez (https://github.com/CelesteSuarezz)
 
-- Ernesto Canio
+- Ernesto Canio (https://github.com/ernesto0369)
 
-- Juan Diego Gonzalez Antoniazzi
+- Juan Diego Gonzalez Antoniazzi (https://github.com/JDGA1997)
 
-- Ivan Canio
+- Ivan Canio (https://github.com/ivanc2111)
+
+- Matias Flores (https://github.com/mflawa)
+
+
+# PracticaSemana2
+
+### Repositorio de practica de la segunda semana de la materia Sensores y Actuadores
 
 
 ![image](https://user-images.githubusercontent.com/84986194/190467698-1f5001b1-ee9b-4336-9ec4-be37d712aae5.png)
