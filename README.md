@@ -13,19 +13,19 @@
 
 ## Integrantes:
 
-- Silvana Barea (https://github.com/recursosssbb)
+- [Silvana Barea](https://github.com/recursosssbb)
 
-- Mauro Martinez (https://github.com/Mauro-Martinez)
+- [Mauro Martinez](https://github.com/Mauro-Martinez)
 
-- Celeste Suarez (https://github.com/CelesteSuarezz)
+- [Celeste Suarez](https://github.com/CelesteSuarezz)
 
-- Ernesto Canio (https://github.com/ernesto0369)
+- [Ernesto Canio](https://github.com/ernesto0369)
 
-- Juan Diego Gonzalez Antoniazzi (https://github.com/JDGA1997)
+- [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997)
 
-- Ivan Canio (https://github.com/ivanc2111)
+- [Ivan Canio](https://github.com/ivanc2111)
 
-- Matias Flores (https://github.com/mflawa)
+- [Matias Flores](https://github.com/mflawa)
 
 
 # PracticaSemana2
