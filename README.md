@@ -6,9 +6,9 @@
 
 ## Docentes:
 
-- Gonzalo Vera
+- [Gonzalo Vera](https://github.com/Gona79)
 
-- Jorge Morales
+- [Jorge Morales](https://github.com/JorEl057)
 
 
 ## Integrantes:
