@@ -1,0 +1,5 @@
+Ejercicio 1A
+Que es régimen estático y transitorio de un sensor.??
+CARACTERÍSTICAS ESTÁTICAS Y DINÁMICAS DE LOS SISTEMAS DE MEDICIÓN.
+Características de los Sistemas de Medición.
+Todo sensor eléctrico, mecánico, químico, cuenta con características intrínsecas propias de los materiales con que fueron construidos. Estas características dependen de la respuesta del sensor a un estimulo externo y pueden ser: características estáticas y dinámicas. Las características estáticas de los instrumentos, sensores o sistemas de medida son las que aparecen en estos después de que ha pasado mucho tiempo, régimen permanente. Se cuantifica en términos de error. Las características dinámicas se presentan en la respuesta de los sensores a un cambio brusco en su entrada, régimen transitorio, en general se presentan en los sensores que cuentan con elementos que almacenan energía (condensadores, inductancias, masas, resortes, etc). Estas características están representadas por el error dinámico y por la velocidad de respuesta
