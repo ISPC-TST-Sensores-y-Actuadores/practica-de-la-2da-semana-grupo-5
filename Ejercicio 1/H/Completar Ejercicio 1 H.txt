@@ -1,0 +1,4 @@
+Ejercicio 1 H
+Como se interpreta una curva dead band?
+Términos Relacionados con la Exactitud (Calidad de la Medición)=BANDA MUERTA (DEAD BAND)
+Es el rango en el que : La entrada varía sin que se inicie una respuesta observable. Se expresa como un porcentaje del Span. Está relacionada con la sensibilidad
