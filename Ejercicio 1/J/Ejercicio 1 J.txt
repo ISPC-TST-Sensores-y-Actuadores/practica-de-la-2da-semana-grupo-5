@@ -1,0 +1,3 @@
+Histéresis: La histéresis es la diferencia máxima que se observa en los valores indicados por el instrumento cuando la variable recorre toda la escala en los dos sentidos, ascendente y descendente.
+
+Zona muerta: Es el rango de valores del mesurando para el cuál el instrumento no varia su indicación o señal de salida. Suele ser indicada como un porcentaje del alcance del instrumento. Es uno de los componentes de la histéresis.
