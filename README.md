@@ -25,8 +25,6 @@
 
 - [Ivan Canio](https://github.com/ivanc2111)
 
-- [Matias Flores](https://github.com/mflawa)
-
 
 # PracticaSemana2
 
